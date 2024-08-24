@@ -1,0 +1,41 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    transition: 1s;
+}
+
+
+
+.main {
+      width: 100 ;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+}
+
+.container{
+     width: 35rem;
+     padding: 15px;
+     border-radius: 15px;
+     text-align: center;
+}
+
+.butten {
+    width: 130px;
+    height: 120px;
+    margin-left: 200px ;
+    background-color: black;
+    color: white;
+    border: none;
+    display: block;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 30px;
+    
+}
